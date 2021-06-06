@@ -4,4 +4,4 @@
 
 # Project[0] Resources
 
-* **GitBook Knowledge-Base**:  The [GitBook KB](https://app.gitbook.com/@kvorak/s/project-0-knowledge-base/) is a place to put useful information about the project that is only loosely organized or sorted.
+* **GitBook Knowledge-Base**:  The [GitBook KB](https://kvorak.gitbook.io/project-0-knowledge-base/) is a place to put useful information about the project that is only loosely organized or sorted.
