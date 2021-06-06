@@ -2,4 +2,4 @@
 
 ## Topics
 
-1. [docs/index](Documentation Home)
+1. [Documentation Home](docs/index)
